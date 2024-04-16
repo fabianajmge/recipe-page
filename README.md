@@ -2,4 +2,4 @@
 
 ![Design preview for the Recipe page coding challenge](./design/desktop-preview.jpg)
 
-[Versão disponível](https://https://fabianajmge.github.io/recipe-page)
+[Versão disponível](https://fabianajmge.github.io/recipe-page)
