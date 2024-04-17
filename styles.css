@@ -169,7 +169,7 @@ ol {
     font-weight: normal;
 }
 
-@media screen and (max-width: 376px) {
+@media screen and (max-width: 768px) {
     .recipe {
         padding: 0;
         margin: 0;
@@ -177,7 +177,7 @@ ol {
     }
 }
 
-@media screen and (min-width: 377px) {
+@media screen and (min-width: 769px) {
     .recipe {
         width: 45%;
         margin: auto;
